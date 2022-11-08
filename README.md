@@ -1,0 +1,2 @@
+# MyStatic
+MyStatic
